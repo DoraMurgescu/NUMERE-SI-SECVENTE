@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\bin\Debug\Problema 20.exe.config
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\bin\Debug\Problema 20.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\bin\Debug\Problema 20.pdb
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\obj\Debug\Problema 20.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\obj\Debug\Problema 20.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\obj\Debug\Problema 20.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 20\Problema 20\Problema 20\obj\Debug\Problema 20.pdb

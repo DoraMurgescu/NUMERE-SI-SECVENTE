@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\bin\Debug\Problema 25.exe.config
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\bin\Debug\Problema 25.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\bin\Debug\Problema 25.pdb
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\obj\Debug\Problema 25.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\obj\Debug\Problema 25.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\obj\Debug\Problema 25.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 25\Problema 25\obj\Debug\Problema 25.pdb
