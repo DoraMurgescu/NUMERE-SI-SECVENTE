@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\bin\Debug\Problema 3.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\bin\Debug\Problema 3.pdb
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\obj\Debug\Problema 3.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\obj\Debug\Problema 3.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\obj\Debug\Problema 3.exe
+C:\Users\Dora\source\repos\Numere si secvente\Problema 3\Problema 3\obj\Debug\Problema 3.pdb
